@@ -1,0 +1,7 @@
+pandas
+nltk
+vaderSentiment
+scikit-learn
+scipy
+matplotlib
+jupyter

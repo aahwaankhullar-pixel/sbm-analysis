@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "A Computational Text Analysis of Stakeholder Framing in the Swachh Bharat Mission"
+authors:
+  - family-names: Khullar
+    given-names: Aahwaan
+    affiliation: "Shiv Nadar School, Faridabad, India"
+date-released: 2026-10-13
+type: software
+license: MIT
+keywords:
+  - Swachh Bharat Mission
+  - sentiment analysis
+  - VADER
+  - topic modeling
+  - framing
