@@ -1,0 +1,56 @@
+id,title,source_type,stakeholder_tag,sentiment,dominant_topic
+1,Impact of Swachh Bharat Abhiyan (research review),academic_paper,government;general_public,0.1093,4
+2,Swachh Bharat Mission: A Case Study,academic_paper,government;local_administration,0.3818,5
+3,Impacts of SBM on Health and Communicable Disease Control (systematic review protocol),academic_paper,public_health;rural_households,-0.3459,3
+4,Financial and Economic Impacts of the Swachh Bharat Mission (Gramin),ngo_report,rural_households;government,0.0,4
+5,A Study on Implication of Swachh Bharat among Students,academic_paper,students;women,-0.5859,2
+6,Swachh Bharat Abhiyan: SWOT Analysis,academic_paper,government;ngo_sector,0.235,4
+7,Effectiveness of the Swachh Bharat Mission and barriers to ending open defecation (systematic review),academic_paper,rural_households;marginalized_communities,0.5719,4
+8,Swachh Bharat Mission - Current Affairs Briefing,policy_briefing,government;sanitation_workers,0.0,2
+9,The Reality of the Swachh Bharat Mission,opinion_analysis,marginalized_castes;infrastructure,-0.0634,4
+10,Why the Swachh Bharat Abhiyan Failed,opinion_analysis,general_public;government,-0.6858,4
+11,How the Swachh Bharat Mission is heading for failure,investigative_journalism,sanitation_workers;marginalized_castes,-0.128,1
+12,The failure of Swachh Bharat Abhiyan: we need a better way to manage trash,opinion_analysis,general_public;urban_local_bodies,-0.8991,1
+13,"Swachh Bharat has made little difference, govt should factor in criticism",opinion_analysis,government;policy_experts,-0.3612,5
+14,PM Modi addresses Swachhata Hi Seva 2024 programme,government_press_release,government;citizens,0.6249,1
+15,Union Minister C R Patil urges people to undertake Shramdaan for Swachhata,government_press_release,government;sanitation_workers,0.1531,4
+16,India rejects UN official's criticism (manual scavenging and caste),news_report,marginalized_castes;sanitation_workers;government,-0.7845,4
+17,One Death Every Few Days: Sanitation Workers Protest at Jantar Mantar,investigative_journalism,sanitation_workers;marginalized_castes,-0.7964,1
+18,"Nearly 500 sewer, septic tank cleaning deaths since 2019, Centre tells Lok Sabha",news_report,sanitation_workers;government,0.33,2
+19,52 Sanitation Workers Lost Lives Due to Hazardous Cleaning in a Year,news_report,sanitation_workers,-0.2732,3
+20,India's Sewer Death Crisis: Why Fatalities Don't Count as Manual Scavenging,investigative_journalism,sanitation_workers;marginalized_castes,-0.9022,3
+21,Swachh Survekshan 2025: Indore cleanest city for 8th consecutive year,government_press_release,urban_local_bodies;government,0.4588,4
+22,CAG report flags irregularities in Uttar Pradesh's waste management,news_report,government;urban_local_bodies,-0.8225,4
+23,CAG flags procurement deficiencies in Delhi's waste management under SBM,news_report,government;urban_local_bodies,0.2263,3
+24,CAG audit flags Assam government's failure to utilize SWM funds,news_report,government;urban_local_bodies,-0.5719,4
+25,"Not a single toilet built in Delhi under Swachh Bharat Mission, CAG report says",investigative_journalism,government;urban_local_bodies,-0.7906,4
+26,ED probes BBMP for misusing Swachh Bharat funds in Bengaluru,investigative_journalism,urban_local_bodies;government,0.2263,3
+27,Understanding Open Defecation in the Age of SBM: rural Bihar ethnography,academic_paper,rural_households;marginalized_communities,-0.5719,3
+28,Toilet usage situation under SBM in rural West Bengal,academic_paper,rural_households,0.5023,5
+29,Sanitation change in rural Jharkhand under SBM,academic_paper,rural_households;women,0.0,4
+30,"Toilet usage behavior study, rural Bihar households",academic_paper,rural_households,-0.7745,5
+31,"After 4 years of Swachh Bharat, toilet use does not match construction spree",investigative_journalism,rural_households;policy_experts,0.1531,5
+32,Information is key to making India open-defecation-free,academic_paper,rural_households;policy_experts,-0.8442,5
+33,NFHS-5 Data Can Help India Become a Truly Open Defecation Free Country,news_report,rural_households;policy_experts,0.4767,2
+34,Impact assessment of SBM on acute diarrheal disease outbreaks,academic_paper,public_health;rural_households,0.4588,4
+35,Menstrual Hygiene Management in India,academic_paper,women;students,0.0,5
+36,Household sanitation and menstrual hygiene among women in rural Odisha,academic_paper,women;rural_households,0.0279,2
+37,Menstrual health and hygiene practices among female students in Assam,academic_paper,women;students,0.0,2
+38,Menstrual Hygiene Management Programming in Maharashtra,ngo_report,women;students;government,0.5423,2
+39,India Menstrual Health Literature Review,ngo_report,women;government,0.6542,5
+40,"Health, Gender, and Economic Benefits of India's Swachh Bharat Mission",policy_briefing,women;public_health;government,0.6597,4
+41,Swachh Bharat Abhiyan (Clean India Mission),government_press_release,government;citizens;students,0.0,4
+42,Swachh Bharat Mission 2.0 - Comprehensive Municipal Waste Management in Indian Cities,ngo_report,urban_local_bodies;government,-0.5499,3
+43,Waste-Wise Cities: Best Practices in Municipal Solid Waste Management,policy_briefing,urban_local_bodies;government,-0.2263,2
+44,"Global South Nears Waste Tipping Point, World Bank Warns",news_report,urban_local_bodies;government,-0.1406,1
+45,Swachh Bharat Mission 2.0: Garbage-Free Urban India,policy_briefing,government;urban_local_bodies,0.0,1
+46,Government reports urban SBM achievements: star-rated garbage-free cities,government_press_release,government;urban_local_bodies,-0.6461,1
+47,Solid Waste Management and Contribution of Swachh Bharat Mission in Shimla,academic_paper,urban_local_bodies,0.3182,5
+48,Cabinet approves continuation of Swachh Bharat Mission (Urban) till 2025-26,government_press_release,government;urban_local_bodies,0.0772,4
+49,Jal Shakti ministry targets 2025 for Swachh Bharat Mission-Grameen after missing 2024 deadline,news_report,rural_households;government,0.5574,3
+50,Swachh Bharat Mission - Progress and Problems,policy_briefing,government;rural_households,0.0,4
+51,"Centre releases Rs 1,869 crore for Swachh Bharat Mission-Grameen in 2024",government_press_release,government;rural_households,0.296,5
+52,Toward a Menstrual-friendly School Environment,academic_paper,women;students,0.0,5
+53,Guidelines on Gender Issues in Sanitation for Swachh Bharat Mission (Gramin),policy_briefing,women;government,0.0,3
+54,"288 people died cleaning sewers, septic tanks in last 3 years: Government",news_report,sanitation_workers,0.0,2
+55,Two sanitation workers die cleaning sewage shaft at Noida house,news_report,sanitation_workers,-0.2263,4
