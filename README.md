@@ -8,7 +8,7 @@ India's Swachh Bharat Mission (SBM) is described as a major success by governmen
 
 ## Data
 
-`data/sbm_corpus.csv` holds 55 English-language documents across seven source types:
+`sbm_corpus.csv` holds 55 English-language documents across seven source types:
 
 | Source type | Documents |
 |---|---|
@@ -46,10 +46,12 @@ An earlier version of the corpus summaries included my own research notes (for e
 ## Repository
 
 ```
-data/sbm_corpus.csv             corpus (55 documents)
+sbm_corpus.csv                  corpus (55 documents)
 sbm_text_analysis.ipynb         full analysis, with outputs
-results/                        document scores and summary tables
-figures/                        charts used in the paper (Figures 2–5)
+sbm_analysis_results.csv        document-level scores and dominant topics
+sentiment_by_source_type.csv    summary table (Table 2 in the paper)
+sentiment_by_stakeholder.csv    summary table (Table 3 in the paper)
+fig2_ … fig5_ ….png             charts used in the paper (Figures 2–5)
 requirements.txt
 CITATION.cff                    citation details
 LICENSE
@@ -57,7 +59,7 @@ LICENSE
 
 ## Run it
 
-**Google Colab:** upload the notebook and `data/sbm_corpus.csv` (into a `data` folder), then *Runtime → Run all*.
+**Google Colab:** open the notebook and choose *Runtime → Run all*. The corpus is fetched from this repository automatically.
 
 **Locally:**
 
